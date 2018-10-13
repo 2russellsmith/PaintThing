@@ -1,7 +1,7 @@
 // Assignment #: Arizona State University CSE205 #7
-//         Name: Your Name
-//    StudentID: Your ID
-//      Lecture: Your lecture time (e.g., MWF 9:40am)
+//         Name: Jon Bartlett
+//    StudentID: 1215254430
+//      Lecture: Lecture 3, M,W 6:00-7:15
 //  Description: The Assignment7 class creates a DrawPane object
 //               on which we can draw different shapes with different
 //               colors and erase one or all, etc.
